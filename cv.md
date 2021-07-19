@@ -223,10 +223,10 @@ function Note(props) {
 
 export default Note;
 ```
-## Foreign Languages
+### Foreign Languages
 English - C1 (*Uncertified*)
 
-## Personal Traits
+### Personal Traits
 * Organised, accurate and detail-oriented
 * Flexible and adaptable to changes
 * Quick learner
