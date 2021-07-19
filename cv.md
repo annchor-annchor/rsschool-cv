@@ -231,5 +231,6 @@ English - C1 (*Uncertified*)
 * *Flexible and adaptable to changes*
 * *Quick learner*
 * *Determined*
+* *Sociable*
 
 
