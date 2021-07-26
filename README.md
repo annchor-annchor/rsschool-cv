@@ -1,2 +1,2 @@
 # Rsschool - CV Task
-***Link*** - https://annchor-annchor.github.io/rsschool-cv/cv
+***Link*** - https://annchor-annchor.github.io/rsschool-cv/
